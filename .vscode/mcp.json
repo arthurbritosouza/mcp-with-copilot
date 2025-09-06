@@ -5,11 +5,4 @@
       "url": "https://api.githubcopilot.com/mcp/"
     }
   }
-}{
-  "servers": {
-    "github": {
-      "type": "http",
-      "url": "https://api.githubcopilot.com/mcp/"
-    }
-  }
 }
